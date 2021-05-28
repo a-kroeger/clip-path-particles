@@ -1,0 +1,21 @@
+{
+    "particles":{
+        "number":{
+            "value": 70000
+        },
+        "color":{
+            "value": "FFF"
+        },
+        "shape":{
+            "type":"circle"
+        },
+        "size":{
+            "value": 1.7,
+            "random": true
+        },
+        "line_linked":{
+            "enable": false,
+            "color": "FFF"
+        }
+    }
+}
